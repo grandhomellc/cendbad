@@ -52,13 +52,13 @@
             <p>cendbad</p>
         </div>
         <div class="middle">
-            <h1>_CENDBAD_</h1>
-            <h4>Comming Soon</h4>
+            <h1>__CENDBAD__</h1>
+            <h5>comming soon</h5>
             <hr>
             <p>Few days left...</p>
         </div>
         <div class="bottomleft">
-            <p>Powered by Grand Home General Trading LLC Copyright &copy; 2015</p>
+            <p>Powered by <a href="https://www.grandhome.ae" style="color: white">Grand Home General Trading LLC</a> Copyright &copy; 2015</p>
         </div>
     </div>
 
