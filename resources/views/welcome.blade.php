@@ -55,7 +55,7 @@
             <h1>__CENDBAD__</h1>
             <h5>comming soon</h5>
             <hr>
-            <p>Few days left...</p>
+            <p>Few days left</p>
         </div>
         <div class="bottomleft">
             <p>Powered by <a href="https://www.grandhome.ae" style="color: white">Grand Home General Trading LLC</a> Copyright &copy; 2015</p>
