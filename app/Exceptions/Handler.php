@@ -27,4 +27,13 @@ class Handler extends ExceptionHandler
             //
         });
     }
+
+    public function render($request, Throwable $exception)
+    {
+        if ($exception instanceof \Illuminate\Foundation\Http\Exceptions\MaintenanceModeException) {
+            return response()->view('errors.503', [], 503);
+        }
+
+        return parent::render($request, $exception);
+    }
 }
