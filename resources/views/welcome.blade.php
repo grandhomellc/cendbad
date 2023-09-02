@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="{{url('assets/bootstrap/css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{url('assets/css/styles.css')}}">
 </head>
-
+dfgsdfgsdfgsdgsdgfg
 <body>
     <header>
         <div class="navbar01">
