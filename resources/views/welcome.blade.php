@@ -14,7 +14,7 @@
         <div class="navbar01">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-md-3 col-lg-2"><a href="./"><img class="img-fluid mt-2" src="public/assets/img/cendbad-logo.png" style="height: 40px;"></a></div>
+                    <div class="col-md-3 col-lg-2"><a href="./"><img class="img-fluid mt-2" src="{{url('assets/img/cendbad-logo.png')}}" style="height: 40px;"></a></div>
                     <div class="col-8 col-md-6 col-lg-6">
                         <div class="desktopSearch">
                             <form method="post">
