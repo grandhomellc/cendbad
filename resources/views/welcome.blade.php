@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Cendbad</title>
-    <link rel="stylesheet" href="public/assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="public/assets/css/styles.css">
+    <link rel="stylesheet" href="{{url('assets/bootstrap/css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{url('assets/css/styles.css')}}">
 </head>
 
 <body>
